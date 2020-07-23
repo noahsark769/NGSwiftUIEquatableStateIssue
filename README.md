@@ -37,3 +37,7 @@ Actual: The app crashes
 Note: You may need to add another var to the NormalExperienceState struct, I've seen it behave inconsistently across compiles.
 
 Note: The same issue doesn't seem to happen on iOS with the same content view.
+
+More info:
+- https://noahgilmore.com/blog/swiftui-equatable-crash/
+- https://github.com/noahsark769/NGSwiftUIEquatableCrashExample
