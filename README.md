@@ -35,3 +35,5 @@ Expected: The app runs
 Actual: The app crashes
 
 Note: You may need to add another var to the NormalExperienceState struct, I've seen it behave inconsistently across compiles.
+
+Note: The same issue doesn't seem to happen on iOS with the same content view.
