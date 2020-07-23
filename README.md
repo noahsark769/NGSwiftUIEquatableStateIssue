@@ -1,4 +1,4 @@
-# NGSwiftUIEquatableStateIssue
+# NGSwiftUIEquatableStateIssue (FB8116459)
 The following SwiftUI code causes an app crash on launch, with the Xcode 12 AppKit App Delegate app template.
 
 ```swift
